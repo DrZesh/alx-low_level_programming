@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* main - C program that prints exactly and that piece of art is useful a Korpar, 2015-10-19d error.
+* main - C program that prints exactly and that piece of art is useful a Korpar.
 * Return: 1 (Success)
 */
 int main(void)
