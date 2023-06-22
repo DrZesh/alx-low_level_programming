@@ -1,11 +1,10 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
 * main - causes an infinite loop
 * Return: 0
 */
-
-#include "main.h"
 
 /**
 * main - tests function that prints if integer is positive or negative
